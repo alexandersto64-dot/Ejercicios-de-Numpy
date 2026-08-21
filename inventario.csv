@@ -1,0 +1,11 @@
+﻿ProductoID,StockActual,StockMinimo,LeadTimeDias,Proveedor,FechaUltimaCompra
+PROD01,120,30,7,Proveedor A,2026-08-10
+PROD02,45,20,10,Proveedor B,2026-08-05
+PROD03,18,25,5,Proveedor C,2026-08-12
+PROD04,32,15,14,Proveedor D,2026-07-28
+PROD05,80,25,6,Proveedor E,2026-08-15
+PROD06,14,20,8,Proveedor F,2026-08-01
+PROD07,27,10,12,Proveedor G,2026-07-30
+PROD08,60,20,9,Proveedor H,2026-08-08
+PROD09,22,15,7,Proveedor I,2026-08-14
+PROD10,95,30,4,Proveedor J,2026-08-16
