@@ -498,12 +498,31 @@ encoding="utf-8-sig"
 #importancia_variables.csv
 
 #PASO 27 — Abrir Power BI
+#Abrir:
+#Power BI Desktop
+#Seleccionar:
+#Inicio → Obtener datos → Texto/CSV
+#Importar:
+#dataset_powerbi.csv
+#Posteriormente importar:
+#predicciones_demanda.csv
+#Finalmente:
+#importancia_variables.csv
 
-#
+# PASO 28 — Verificar los tipos de datos
+#Desde Power Query comprobar:
+#Fecha → Fecha.
+#Cantidad → Número entero.
+#Precio → Decimal.
+#VentaNeta → Decimal.
+#Utilidad → Decimal.
+#StockActual → Número.
+#DemandaPredicha → Decimal.
+#Semana → Número entero.
+#Seleccionar:
+#Cerrar y aplicar.
 
-#
-
-#
+#PASO 29 — Crear indicadores DAX
 
 #
 

@@ -1,11 +1,31 @@
 ﻿ProductoID,StockActual,StockMinimo,LeadTimeDias,Proveedor,FechaUltimaCompra
-PROD01,120,30,7,Proveedor A,2026-08-10
-PROD02,45,20,10,Proveedor B,2026-08-05
-PROD03,18,25,5,Proveedor C,2026-08-12
-PROD04,32,15,14,Proveedor D,2026-07-28
-PROD05,80,25,6,Proveedor E,2026-08-15
-PROD06,14,20,8,Proveedor F,2026-08-01
-PROD07,27,10,12,Proveedor G,2026-07-30
-PROD08,60,20,9,Proveedor H,2026-08-08
-PROD09,22,15,7,Proveedor I,2026-08-14
-PROD10,95,30,4,Proveedor J,2026-08-16
+PROD001,59,16,8,Flores Andinas SAC,2026-07-16
+PROD002,57,19,8,Flores Andinas SAC,2026-07-02
+PROD003,46,17,4,Proveedores del Pacífico,2026-08-09
+PROD004,35,13,8,Distribuciones Norte,2026-07-13
+PROD005,47,10,4,Proveedores del Pacífico,2026-07-16
+PROD006,32,13,5,Mercado Verde SAC,2026-07-21
+PROD007,73,18,6,Proveedores del Pacífico,2026-08-11
+PROD008,40,8,7,Proveedores del Pacífico,2026-07-02
+PROD009,22,9,9,Distribuciones Norte,2026-07-07
+PROD010,40,13,7,Distribuciones Norte,2026-07-18
+PROD011,73,16,10,Distribuciones Norte,2026-07-17
+PROD012,52,12,11,Insumos Floral Perú,2026-07-08
+PROD013,86,22,9,Distribuciones Norte,2026-07-06
+PROD014,49,9,2,Flores Andinas SAC,2026-07-12
+PROD015,52,13,9,Insumos Floral Perú,2026-08-08
+PROD016,40,19,3,Mercado Verde SAC,2026-07-11
+PROD017,34,11,10,Mercado Verde SAC,2026-07-12
+PROD018,40,13,4,Proveedores del Pacífico,2026-07-19
+PROD019,49,11,11,Insumos Floral Perú,2026-08-04
+PROD020,68,13,9,Mercado Verde SAC,2026-08-06
+PROD021,58,20,5,Flores Andinas SAC,2026-08-13
+PROD022,29,12,4,Proveedores del Pacífico,2026-07-07
+PROD023,51,20,5,Flores Andinas SAC,2026-07-29
+PROD024,79,16,4,Mercado Verde SAC,2026-08-06
+PROD025,59,22,8,Proveedores del Pacífico,2026-07-19
+PROD026,35,17,6,Flores Andinas SAC,2026-07-20
+PROD027,61,20,8,Flores Andinas SAC,2026-07-22
+PROD028,40,13,5,Insumos Floral Perú,2026-07-29
+PROD029,59,19,3,Proveedores del Pacífico,2026-07-08
+PROD030,32,10,6,Flores Andinas SAC,2026-07-30
